@@ -62,10 +62,11 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "okay so i kinda wanted to send this the way old sailors used to send word home — sealed up, set adrift, and just trusting it'd find its way to you somehow.",
-  "ngl today's literally your day. i hope it feels exactly like that: unrushed, warm, and full of all the lil good things. you deserve every single bit of it, no cap.",
-  "thank you for being the kind of person whose presence makes even the most ordinary days feel worth remembering. like fr, this lil corner of the internet is just my small way of saying that.",
-  "however you spend today, i just hope you're surrounded by people who love you just as much as i do, if not more. happy birthday, my favorite person ever.",
+"okay so i kinda wanted to send this the way old sailors used to send word home — sealed up, set adrift, and just trusting it'd find its way to you somehow. kayak sebuah pesan kecil yang dilepas ke lautan dan berharap akhirnya sampai tepat ke orang yang dituju.",
+"ngl today's literally your day. i hope it feels exactly like that: unrushed, warm, and full of all the lil good things. semoga hari ini berjalan pelan, nyaman, dan dipenuhi hal-hal kecil yang bikin kamu senyum. you deserve every single bit of it, no cap.",
+"thank you for being the kind of person whose presence makes even the most ordinary days feel worth remembering. like fr, kehadiran kamu tuh punya cara sendiri buat bikin hari yang biasa aja jadi terasa spesial. this lil corner of the internet is just my small way of saying that.",
+"however you spend today, i just hope you're surrounded by people who love you just as much as i do, if not more. semoga hari ini penuh sama orang-orang yang tulus sayang sama kamu dan bikin kamu ngerasa dicintai. happy birthday, my favorite person ever."
+
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
