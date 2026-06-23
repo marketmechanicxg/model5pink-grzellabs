@@ -81,25 +81,25 @@ const MEMORIES = [
     depth: "2m",
     year:  "Chapter One",
     title: "where it all started",
-    text:  "that exact moment when everything just clicked and suddenly made so much sense.",
+    text:  "that exact moment when everything just clicked, dan tiba-tiba semuanya mulai make so much sense.",
   },
   {
     depth: "8m",
     year:  "Chapter Two",
     title: "the quiet days",
-    text:  "literally just you, me, and those lil simple moments that ended up meaning everything.",
+    text:  "literally cuma kamu, aku, and those lil simple moments yang ternyata ended up meaning everything.",
   },
   {
     depth: "16m",
     year:  "Chapter Three",
     title: "through the storms",
-    text:  "we've had our rough patches fr, but honestly? we always found our way back to each other.",
+    text:  "we've had our rough patches fr, ada badai dan chaos juga, but somehow kita selalu find our way back to each other.",
   },
   {
     depth: "24m",
     year:  "Chapter Four",
     title: "finding the light",
-    text:  "you're genuinely the brightest part of my whole journey, even when things get heavy.",
+    text:  "you're genuinely the brightest part of my whole journey, yang selalu bikin everything feels a little lighter even when things get heavy.",
   },
 ];
 
@@ -109,12 +109,12 @@ const MEMORIES = [
    icon: wave | shell | star | compass | anchor | heart
    text: isi ucapannya                                            */
 const WISHES = [
-  { icon: "wave",    text: "may this year give you all the calm of the ocean and just as much depth as your heart has, fr." },
-  { icon: "shell",   text: "hope your days stay this bright, like sun bouncing off the water, and your nights this peaceful, like the tide pulling back." },
-  { icon: "star",    text: "may every lil wish of yours show up exactly when you need it the most, no cap." },
-  { icon: "compass", text: "wherever this year takes you, i hope you always find your way back to the people who genuinely adore you." },
-  { icon: "anchor",  text: "stay grounded, stay grateful, and tbh, just stay as beautiful as you already are rn." },
-  { icon: "heart",   text: "happy birthday istg — cheers to another whole year of memories that are so worth keeping." },
+  { icon: "wave",    text: "may this year give you all the calm of the ocean, dan sedalam itu juga hati kamu yang selalu penuh dengan kindness, fr." },
+  { icon: "shell",   text: "hope your days stay this bright, kayak sun yang mantul di atas water, and your nights tetap peaceful seperti tide yang pelan-pelan balik ke laut." },
+  { icon: "star",    text: "may every lil wish kamu pelan-pelan come true, exactly when you need it the most, no cap." },
+  { icon: "compass", text: "wherever this year takes you, i hope kamu selalu find your way back to the people who genuinely care and adore you." },
+  { icon: "anchor",  text: "stay grounded, stay grateful, and tbh tetap jadi kamu yang sekarang — beautiful in your own way, always." },
+  { icon: "heart",   text: "happy birthday istg — cheers buat another year penuh memories yang bakal selalu worth keeping." },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
