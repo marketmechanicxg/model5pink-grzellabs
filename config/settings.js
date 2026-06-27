@@ -31,11 +31,11 @@ const RECIPIENT_NAME = "Nabila";           // ← GANTI NAMA
    Lalu ganti judul dan nama artis di bawah ini.                  */
 const MUSIC_TRACKS = [
   {
-    title:  "i'd like to watch you sleeping",             // ← GANTI JUDUL LAGU
-    artist: "Sal Priadi",                   // ← GANTI NAMA ARTIS
+    title:  "So High School",             // ← GANTI JUDUL LAGU
+    artist: "Taylor Swift",                   // ← GANTI NAMA ARTIS
     src:    "assets/music/song1.mp3",    //   (nama file mp3 — jangan diubah kecuali nama filenya beda)
     cover:  "assets/music/song1.jpeg",   //   (nama file cover — jangan diubah kecuali nama filenya beda)
-    startTime: 25,                           // ← MULAI DARI DETIK KE BERAPA
+    startTime: 0,                           // ← MULAI DARI DETIK KE BERAPA
   },
 ];
 
